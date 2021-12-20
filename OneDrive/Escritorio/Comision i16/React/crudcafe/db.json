@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombreProducto": "Medialuna",
+      "precioProducto": "20",
+      "categoria": "dulce"
+    },
+    {
+      "nombreProducto": "café",
+      "precioProducto": "60",
+      "categoria": "bebida-caliente",
+      "id": 3
+    },
+    {
+      "nombreProducto": "submarino",
+      "precioProducto": "50",
+      "categoria": "bebida-caliente",
+      "id": 4
+    },
+    {
+      "nombreProducto": "te",
+      "precioProducto": "30",
+      "categoria": "bebida-caliente",
+      "id": 5
+    },
+    {
+      "nombreProducto": "Pan 2kg",
+      "precioProducto": "200",
+      "categoria": "salado",
+      "id": 9
+    },
+    {
+      "nombreProducto": "brownie",
+      "precioProducto": "50",
+      "categoria": "dulce",
+      "id": 12
+    }
+  ]
+}
